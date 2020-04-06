@@ -3,7 +3,7 @@
 
 [//]: # (Image References)
 
-[Alex]:./figures/AlexNet_digits.png "Screenshot of Task 1 AlexNet"
+[Alex]:./figures/AlexNet_digits.PNG "Screenshot of Task 1 AlexNet"
 [graph]:./figures/graph.png "Training Graph of Task 1 AlexNet"
 [img20]:./figures/many_classification.png "Testing 20 Images with Task 1 AlexNet"
 [bot]:./figures/bottle_test.png "Testing a Bottle Image Task 1 AlexNet"
