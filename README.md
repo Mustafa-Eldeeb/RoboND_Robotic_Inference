@@ -8,7 +8,7 @@
 [img20]:./figures/many_classification.PNG "Testing 20 Images with Task 1 AlexNet"
 [bot]:./figures/bottle_test.PNG "Testing a Bottle Image Task 1 AlexNet"
 [can]:./figures/candy_test.PNG "Testing a Candy-Box Image Task 1 AlexNet"
-[no]:./figures/nothing.PNG "Testing a Nothing Image Task 1 AlexNet"
+[no]:./figures/nothing_test.PNG "Testing a Nothing Image Task 1 AlexNet"
 
 [tg]:./figures/Traffic_graph.PNG "Training Graph of Task 2 LeNet"
 
